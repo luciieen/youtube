@@ -1,0 +1,1341 @@
+.sup{
+    font-size: 12px;
+}
+
+body{
+    font-family: ;
+}
+
+/* left float */
+
+.left{
+    float: left;
+    width: 20%;    
+}
+
+
+.fa-house{
+    font-size: 18px;
+    margin-top: 102px;
+    margin-left: 30px;
+    display: inline-block;
+   
+        
+}
+
+.home{
+    margin-top: 105px;
+    margin-left: 12px;
+}
+
+
+a{
+      text-decoration: none;
+      color: black;
+}
+    
+.anchor{
+    display: flex;
+    padding-right: 10px;
+    border: 1px solid gray;
+    height: 50px;
+}
+
+
+
+.b1{
+    border: 1px solid gray;
+    width: 250px;
+    height: 30px;
+    margin-top: 50px;
+
+}
+
+.shorts{
+    margin-left: 31px;
+}
+
+.Shortsp{
+    margin-top: -22px;
+    margin-left: 62px;
+}
+
+.subscription{
+    margin-left: 31px;
+}
+
+.subscriptionp{ 
+        margin-top: -22px;
+        margin-left: 62px;
+
+}
+
+
+/* flex1 */
+
+#flex1{
+    display: flex;
+    padding-top: 10px;
+}
+
+.fa-bars{
+    font-size: 20px;
+    font-weight: lighter;
+    margin-left: 2px;
+    margin-top: 0px;
+    border-radius: 50%;
+    width: 32px;
+    height: 30px;
+    padding-left: 14px;
+    padding-top: 15px;
+}
+
+.fa-bars:hover{
+        
+}
+
+.utubeimg1{
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.y1{
+    margin-left: 47px;
+    margin-top: -37px;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: 24px;  
+}
+
+.search{
+    margin-left: 260px;
+    width: 580px;
+    height: 36px;
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 40px;
+    padding-left: 17px;
+    font-size: 15px;
+    color: rgb(197, 197, 197);
+}
+
+.searchimg{
+    position: absolute;
+    margin-left: -78px;
+    margin-top: px;
+    border: 1px solid rgb(197, 197, 197);
+    border-left: 1px solid rgb(197, 197, 197);
+    border-radius: 0px 40px 40px 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(243, 241, 241);
+}
+
+.searchimg:hover{
+    background-color: rgb(232, 232, 232);
+}
+
+
+.fa-microphone{
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 2px;
+    border-radius: 50%;
+    background-color: rgb(232, 232, 232);
+    width: 25px;
+    height: 25px;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+.fa-microphone:hover{
+    background-color: rgb(209, 209, 209);
+}
+
+.fa-video{
+    font-size: 20px;
+    margin-left: 265px;
+    margin-top: 10px;
+    /* border-radius: 50%;
+    width: 30px;
+    height: 27px;
+    padding-left: 8px;
+    padding-top: 10px; */
+} 
+
+/* .fa-video:hover{
+    background-color: rgb(232, 232, 232);
+} */
+
+.fa-bell{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+
+.sup1{
+    background-color: rgb(205, 4, 4);
+    color: white;
+    border: 1px solid white;
+    font-weight: lighter;
+    border-radius: 50%;
+    position: absolute;
+    width: 10px;
+    height: 15px;
+    padding-left: 5px;
+    padding-top: px;
+    margin-left: 40px;
+    margin-top: 6px;
+}
+
+.profile{
+    background-color: rgb(81, 81, 213);
+    font-size: 18px;
+    font-weight: lighter;
+    border-radius: 50%;
+    padding-left: 11px;
+    padding-top: 5px;
+    width: 22px;
+    height: 26px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 78px;
+    margin-top: 5px;
+    position: absolute;
+
+}
+
+
+
+#left{
+    float: left;
+    margin-top: 60px;
+}
+
+.fa-house{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.home{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+}
+
+.l1{
+    border: 1px solid white;
+    background-color: rgb(241, 241, 241);
+    padding-top: 5px;
+    border-radius: 10px;
+    width: 205px;
+    height: 35px;
+}
+
+.l1:hover{
+    background-color: rgb(227, 227, 227);
+}
+
+.fa-shorts{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.shorts{
+    margin-left: 55px;
+    margin-top: -22px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l2{
+    border: 1px solid white;
+    padding-top: 4px;
+    border-radius: 10px;
+    width: 205px;
+    height: 35px; 
+}
+
+.l2:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-subscriptions{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.subscriptions{
+    margin-left: 55px;
+    margin-top: -22px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l3{
+    border: 1px solid white;
+    padding-top: 4px;
+    border-radius: 10px;
+    width: 205px;
+    height: 35px;
+}
+
+.l3:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.you{
+    margin-left: 15px;
+    font-weight: bolder;
+}
+
+.fa-greater-than{
+    font-size: 11px;
+    margin-left: 55px;
+    margin-top: -29px;
+    position: absolute;
+}
+
+.l4{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 205px;
+    height: 45px;
+}
+
+.l4:hover{
+    background-color: rgb(241, 241, 241); 
+}
+
+.fa-clock-rotate-left{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.history{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l5{
+    border: 1px solid white;
+    padding-top: 4px;
+    border-radius: 10px;
+    width: 205px;
+    height: 35px;
+}
+
+.l5:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-clock{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.watch-later{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;    
+}
+
+.l6{
+    border: 1px solid white;
+    padding-top: 4px;
+    border-radius: 10px;
+    width: 205px;
+    height: 35px;
+}
+
+.l6:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-thumbs-up{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.likes{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.l7{
+    border: 1px solid white;
+    padding-top: 4px;
+    border-radius: 10px;
+    width: 205px;
+    height: 35px;
+}
+
+.l7:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+/* no l8 */
+
+.sub2{
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.img1{
+    width: 23px;
+    margin-top: px;
+    margin-left: 15px;
+}
+
+.l9{
+    border: 1px solid white;
+    padding-top: 4px;
+    border-radius: 10px;
+    width: 205px;
+    height: 35px;
+}
+
+.l9:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.img2{
+    width: 25px;
+    margin-top: -15px;
+    margin-left: 15px;
+    padding-top: 18px;
+}
+
+.l10{
+    margin-top: -1px;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 205px;
+    height: 39px;
+}
+
+.l10:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.img3{
+    width: 22px;
+    margin-top: -15px;
+    margin-left: 15px;
+}
+
+.l11{
+    border: 1px solid white;    
+    padding-top: 15px;
+    border-radius: 10px;
+    width: 205px;
+    height: 25px;
+}
+
+.l11:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.img4{
+    width: 25px;
+    margin-top: -15px;
+    margin-left: 15px;
+}
+
+.l12{
+    border: 1px solid white;
+    padding-top: 15px;
+    border-radius: 10px;
+    width: 205px;
+    height: 25px;
+}
+
+.l12:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.img5{
+    width: 25px;
+    margin-top: -15px;
+    margin-left: 15px;
+}
+
+.l13{
+    border: 1px solid white;
+    padding-top: 15px;
+    border-radius: 10px;
+    width: 205px;
+    height: 27px;
+}
+
+.l13:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+/* img1 and imgp1 same line */
+
+.imgp1{
+    margin-left: 55px;
+    margin-top: -21px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.imgp2{
+    margin-left: 55px;
+    margin-top: -21px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.imgp3{
+    margin-left: 55px;
+    margin-top: -21px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.imgp4{
+    margin-left: 55px;
+    margin-top: -21px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.imgp5{
+    margin-left: 55px;
+    margin-top: -21px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.fa-plus{
+    font-size: 12px;
+    margin-top: px;
+    margin-left: 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.Browse{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.l14{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l14:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+/* no l15 */
+
+.explore{
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.fa-fire{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.trending{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.l16{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l16:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-bag-shopping{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.shopping{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.l17{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l17:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-music{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.music{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.l18{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l18:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-film{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.films{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.l19{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l19:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-wifi{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.live{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal; 
+}
+
+.l20{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l20:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-gamepad{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.game{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l21{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l21:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-newspaper{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.news{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l22{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l22:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-trophy{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.sport{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l23{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l23:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-lightbulb{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.learning{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l24{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l24:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-vest{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.fashion{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l25{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l25:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-podcast{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.podcast{
+    margin-left: 55px;
+    margin-top: -18px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l26{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l26:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+/* no l27 */
+
+.more{
+    margin-top: -10px;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.fa-youtube{
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+.youpre{
+    margin-left: 55px;
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l28{
+    border: 1px solid white;
+    margin-top: -2px;
+    padding-top: 2px;
+    border-radius: 10px;
+    width: 205px;
+    height: 38px;
+}
+
+.l28:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-youtubemusic{
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.music{
+    margin-left: 55px;
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l29{
+    border: 1px solid white;
+    margin-top: -2px;
+    padding-top: 2px;
+    border-radius: 10px;
+    width: 205px;
+    height: 38px;
+}
+
+.l29:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-kids{
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.kids{
+    margin-left: 55px;
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+
+.l30{
+    border: 1px solid white;
+    margin-top: -2px;
+    padding-top: 2px;
+    border-radius: 10px;
+    width: 205px;
+    height: 38px;
+}
+
+.l30:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-gear{
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.settings{
+    margin-left: 55px;
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l31{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l31:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-flag{
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.report{
+    margin-left: 55px;
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l32{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l32:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-question{
+    font-size: 12px;
+    width: 10px;
+    margin-top: 8px;
+    margin-left: 15px;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 2px;
+    padding-left: 4px;
+    padding-top: 3px;
+}
+
+.help{
+    margin-left: 55px;
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l33{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l33:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.fa-message{
+    font-size: 21px;
+    margin-top: 8px;
+    margin-left: 15px;
+    
+}
+
+.sfeed{
+    margin-left: 55px;
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.l34{
+    border: 1px solid white;
+    padding-top: 9px;
+    border-radius: 10px;
+    width: 205px;
+    height: 30px;
+}
+
+.l34:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+.para{
+    margin-left: 15px;
+    color: rgb(89, 89, 89);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+}
+
+.hoverleft{
+    position: fixed;
+    margin-top: 10px;
+}
+
+.hoverleft:hover{
+    position: absolute;
+    z-index: -1;
+}
+/*  ---------------------------------------------------------- */
+/* right float */
+
+#right{
+    float: right;
+    width: 85%;
+    
+}
+
+.righta{
+    position: fixed;
+    margin-top: 60px;
+    background-color: white;
+    height: 40px;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.all{
+    color: white;
+    background-color: black;
+    padding: 6px 8px;
+    border-radius: 10px;
+}
+/* .......................................................... */
+.gaming{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.gaming:hover{
+    background: rgb(227, 227, 227);
+}
+
+.music2{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.music2:hover{
+    background: rgb(227, 227, 227);
+}
+
+.tamilc{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.tamilc:hover{
+    background: rgb(227, 227, 227);
+}
+
+.data{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.data:hover{
+    background: rgb(227, 227, 227);
+}
+
+.sql{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.sql:hover{
+    background: rgb(227, 227, 227);
+}
+
+.application{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.application:hover{
+    background: rgb(227, 227, 227);
+}
+
+.java{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.java:hover{
+    background: rgb(227, 227, 227);
+}
+
+.games{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.games:hover{
+    background: rgb(227, 227, 227);
+}
+
+.newyear{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.newyear:hover{
+    background: rgb(227, 227, 227);
+}
+
+.cricket{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;
+}
+
+.cricket:hover{
+    background: rgb(227, 227, 227);
+}
+
+.filmi{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;      
+}
+
+.filmi:hover{
+    background: rgb(227, 227, 227);
+}
+
+.lecture{
+    background-color: rgb(241, 241, 241);
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 6px 12px;      
+}
+
+.lecture:hover{
+    background: rgb(227, 227, 227);
+}
+
+
+/* frame */
+
+/* flex1 */
+.frame{
+    margin-top: 126px;
+    position: fixed;
+}
+
+.frame:hover{
+    position: absolute;
+    z-index: -1;
+}
+
+iframe{
+    border-radius: 15px;
+}
+
+.fflex1{
+    display: flex;
+}
+
+/* 1 */
+
+
+.f1h{
+    font-size: 17px;
+    margin-left: -360px;
+    margin-top: 240px;
+}
+
+.f1i{
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 240px;
+    margin-left: -330px;
+}
+
+span{
+    font-size: 15px;
+    color: rgb(192, 192, 192);
+}
+
+sup{
+    color: rgb(136, 136, 136);
+}
+/* 2 */
+
+.f2{
+    margin-left: 100px;
+}
+
+.f2h{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 490px;
+}
+
+.f2i{
+    margin-top: 235px;
+    margin-left: -420px;
+}
+
+.f22i{
+    border-radius: 50%;
+}
+
+/* 3 */
+
+.f3{
+    margin-left: 390px;
+}
+
+.f3h{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 915px;
+}
+
+.f3i{
+    margin-top: 235px;
+    margin-left: -420px;
+    border-radius: 50%;
+}
+
+/* flex2 */
+
+.fflex2{
+    display: flex;
+}
+
+/* 4 */
+.f4h{
+    margin-left: -360px;
+    margin-top: 245px;
+}
+
+.f4i{
+    position: absolute;
+    margin-top: 243px;
+    margin-left: -355px;
+    border-radius: 50%;
+}
+
+/* 5 */
+
+.f5{
+    margin-left: 73px;
+}
+
+.f5h{
+    margin-left: -360px;
+    margin-top: 245px;
+}
+
+.f5i{
+    border-radius: 50%;
+    margin-top: 243px;
+    margin-left: -388px;
+}
+
+/* 6 */
+
+.f6{
+    margin-left: 40px;
+}
+
+.f6h{
+    margin-left: -360px;
+    margin-top: 245px;
+}
+
+.f6i{
+    border-radius: 50%;
+    margin-top: 243px;
+    margin-left: -369px;
+}
+
+/* flex 3 */
+
+.fflex3{
+    display: flex;
+}
+
+
+/* 6 */
+
+.f61{
+    margin-left: 45px;
+}
+
+.f6i{
+    position: absolute;
+    margin-left: -385px;
+}
+
+.f51{
+    margin-left: 40px;
+}
+
+
